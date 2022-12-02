@@ -27,6 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 WhatsLab - projeto de troca de mensagens instantâneas.
 
+Link do projeto - https://little-pest.surge.sh/
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1144665616164957058) para acessá-lo.
